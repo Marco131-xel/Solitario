@@ -1,0 +1,3 @@
+D:/Documentos/Marco/Programacion/Progra C_C++/PROYECTOS/Solitario/cmake-build-debug/CMakeFiles/Solitario.dir
+D:/Documentos/Marco/Programacion/Progra C_C++/PROYECTOS/Solitario/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documentos/Marco/Programacion/Progra C_C++/PROYECTOS/Solitario/cmake-build-debug/CMakeFiles/rebuild_cache.dir
